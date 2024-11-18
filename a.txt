@@ -1,1 +1,2 @@
-this is the third line in the code written by cat"[D[D[D[D"cat" command with git bash
+this is the third line in the code written by cat command with git bash
+
